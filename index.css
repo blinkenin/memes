@@ -1,0 +1,13 @@
+.memesContainer {
+    display: flex;
+    max-width: 1200px;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.memesImage {
+    border-radius: 16px;
+    object-fit: contain;
+    max-width: 350px;
+    max-height: 350px;
+}
