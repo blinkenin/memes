@@ -8,6 +8,12 @@
 .memesImage {
     border-radius: 16px;
     object-fit: contain;
-    max-width: 350px;
-    max-height: 350px;
+    max-width: 360px;
+    max-height: 360px;
+}
+
+.body {
+    border: 1px solid #ccc;
+    border-radius: 24px;
+    padding: 16px;
 }
